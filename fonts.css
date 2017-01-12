@@ -1,8 +1,8 @@
 @font-face {
-  font-family: DMONO;
-  src: url(dmono.ttf);
+  font-family: 'DMONO';
+  src: url('dmono.ttf');
 }
 @font-face {
-    font-family: DSANS;
-  src: url(dsans.ttf); 
+    font-family: 'DSANS';
+  src: url('dsans.ttf'); 
 }
