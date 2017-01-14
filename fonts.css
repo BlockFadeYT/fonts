@@ -6,3 +6,7 @@
     font-family: 'DSANS';
   src: url('dsans.ttf'); 
 }
+@font-face {
+    font-family: lightbulb;
+    src: url('lb.ttf');
+}
